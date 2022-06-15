@@ -1,3 +1,3 @@
-# Image-prosessing
+# Image-processing
 
 Задание находится в файле "Задание Лаб_2-2022_ВМК.pdf".
